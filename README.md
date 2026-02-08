@@ -9,3 +9,14 @@ Attached is the BE-per-nucleon data required to run the fitting test. Read the f
 columns 1 - 6 of data file:
 Mass number, number of protons, name of isotope, mass [MeV/c^2],
 binding energy [MeV], binding energy per nucleus [MeV]
+
+Mass number, number of protons, name of isotope, mass [MeV/c^2], 
+binding energy [MeV] and binding energy per nucleus [MeV]
+for different atomic nuclei.
+
+Calculated for Einstein Online
+http://www.einstein-online.info,
+using data from the Atomic Mass Data Center,
+http://www.nndc.bnl.gov/amdc/web/nubase_en.html
+
+Data from July 2005
